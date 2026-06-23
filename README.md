@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Umair Ahmad  
-### Computational Engineer & Data Scientist 🚀
+### Computational Engineer 🚀
 
-A passionate **Computational Engineer** from Pakistan, currently pursuing an **M.Sc. in Data Science** at **FAU Erlangen-Nürnberg, Germany** 🇩🇪. I leverage mathematical modeling, advanced computing, and data science methodologies to solve complex engineering and analytical problems.
+A passionate **Computational Engineer** from Pakistan, currently pursuing an **M.Sc. in Computational Engineer** at **FAU Erlangen-Nürnberg, Germany** 🇩🇪. I leverage mathematical modeling, advanced computing, and data science methodologies to solve complex engineering and analytical problems.
 
 ---
 
